@@ -31,5 +31,3 @@ The purpose of this project is to perform multiple linear regression analysis, c
 
 ![alt text](Resources/lot3_test.png)
 
-## Study Design: MechaCar vs Competition
-
