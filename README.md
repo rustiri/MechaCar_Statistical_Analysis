@@ -14,6 +14,7 @@ The purpose of this project is to perform multiple linear regression analysis, c
 
 ![alt text](Resources/d1_mechacar_lm.png)
 
+Based on the above image result, vehicle length, vehicle weight, ground clearance as well as the intercept are statistically unlikely to provide random amounts of variance to the linear model.
 
 ## Summary Statistics on Suspension Coils
 
