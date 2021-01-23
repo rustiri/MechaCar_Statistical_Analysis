@@ -21,17 +21,15 @@ The purpose of this project is to perform multiple linear regression analysis, c
 
 ![alt text](Resources/lot_summary.png)
 
-address the following question:
-
 ## T-Tests on Suspension Coils
 
-![alt text](Resources/lots.png)
+![alt text](Resources/lots_test.png)
 
-![alt text](Resources/lot1.png)
+![alt text](Resources/lot1_test.png)
 
-![alt text](Resources/lot2.png)
+![alt text](Resources/lot2_test.png)
 
-![alt text](Resources/lot3.png)
+![alt text](Resources/lot3_test.png)
 
 ## Study Design: MechaCar vs Competition
 
